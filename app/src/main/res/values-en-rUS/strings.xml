@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_equation">Select the equation to solve</string>
+    <string name="button_text">Solve</string>
+    <string name="name_and_version">Daniel Martinez Version 1.0.0</string>
+    <string name="complex_roots_warning">These coeficients yield complex roots</string>
+    <string name="result_title_quadratic">The roots for that equation are</string>
+    <string name="result_area_label">The area for that shape is %1$s m2</string>
+    <string name="result_quadratic_lable">The roots for that equation are: %1$s and %2$s </string>
+    <string-array name="equations">
+        <item>"Quadratic"</item>
+        <item>"Triangle Area"</item>
+        <item>"Rectangle Area"</item>
+    </string-array>
+</resources>

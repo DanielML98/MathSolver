@@ -1,11 +1,18 @@
 <resources>
-    <string name="app_name">Math Solver</string>
-    <string name="select_equation">Selecciona una ecuación a resolver</string>
-    <string name="button_text">Resolver</string>
+    <string name="app_name" translatable="false">Math Solver</string>
     <string name="name_and_version">Daniel Martinez\nVersión 1.0.0</string>
+    <string name="a_parameter_label" translatable="false">a</string>
+    <string name="b_parameter_label" translatable="false">b</string>
+    <string name="c_parameter_label" translatable="false">c</string>
+    <string name="complex_roots_warning">Estos coeficientes entregan raíces complejas</string>
+    <string name="result_title_quadratic">Las raíces de la ecuación son:</string>
+    <string name="result_area_label">El área de esa figura es de %1$s m2</string>
+    <string name="result_quadratic_lable">Las raíces de la ecuación son: %1$s y %2$s </string>
     <string-array name="equations">
         <item>"Cuadrática"</item>
         <item>"Área de un triángulo"</item>
         <item>"Área de un rectángulo"</item>
     </string-array>
+    <string name="select_equation">Selecciona la ecuación a resolver</string>
+    <string name="button_text">Resolver</string>
 </resources>

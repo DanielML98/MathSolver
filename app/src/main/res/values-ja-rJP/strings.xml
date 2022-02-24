@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_equation">答える欲しいの式を選んでください</string>
+    <string name="name_and_version">Daniel Martinez\nVersion 1.0.0</string>
+    <string name="complex_roots_warning">その式はコンペルクスの零点があります</string>
+    <string name="result_title_quadratic">Las raíces de la ecuación son:</string>
+    <string name="result_area_label">その形のエイレアは　%1$s m2　です</string>
+    <string name="result_quadratic_lable">その式の零点は　%1$s と %2$s　です</string>
+    <string-array name="equations">
+        <item>"二次方程式"</item>
+        <item>"三角のエリア"</item>
+        <item>"長方形のエリア"</item>
+    </string-array>
+    <string name="button_text">解く</string>
+</resources>
